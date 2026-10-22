@@ -1,0 +1,41 @@
+﻿Employee_ID,Name,Age,Gender,Department,Job_Title,Salary_BDT,Experience_Years,City,Performance_Rating
+1001,Aarif Hasan,26,Male,IT,Python Developer,45000,2,Dhaka,4.2
+1002,Nusrat Jahan,29,Female,HR,HR Executive,42000,5,Chattogram,4.5
+1003,Tanvir Ahmed,32,Male,Finance,Accountant,52000,7,Dhaka,4.1
+1004,Mim Akter,24,Female,Marketing,Marketing Assistant,32000,1,Sylhet,3.8
+1005,Sajid Rahman,35,Male,Sales,Sales Manager,68000,10,Khulna,4.6
+1006,Farzana Islam,28,Female,IT,Data Analyst,55000,4,Dhaka,4.7
+1007,Rafiul Karim,27,Male,Operations,Operations Officer,39000,3,Rajshahi,3.9
+1008,Samia Chowdhury,31,Female,Finance,Senior Accountant,61000,8,Dhaka,4.4
+1009,Imran Hossain,23,Male,IT,Junior Developer,30000,1,Barishal,3.7
+1010,Tania Sultana,30,Female,Sales,Sales Executive,41000,6,Chattogram,4.0
+1011,Mahmudul Hasan,34,Male,HR,HR Manager,70000,11,Dhaka,4.8
+1012,Jannatul Ferdous,25,Female,Operations,Admin Assistant,31000,2,Rangpur,3.9
+1013,Sabbir Ahmed,29,Male,Marketing,SEO Specialist,47000,5,Dhaka,4.3
+1014,Orpa Das,27,Female,IT,UI Designer,49000,4,Sylhet,4.5
+1015,Nayeem Islam,36,Male,Finance,Finance Manager,82000,12,Chattogram,4.6
+1016,Anika Rahman,22,Female,Sales,Sales Trainee,26000,0,Dhaka,3.6
+1017,Fahim Ahmed,33,Male,Operations,Team Leader,58000,9,Khulna,4.2
+1018,Sharmeen Akter,28,Female,Marketing,Content Writer,38000,4,Rajshahi,4.1
+1019,Rakibul Hasan,25,Male,IT,QA Tester,36000,2,Dhaka,3.8
+1020,Ishrat Jahan,32,Female,HR,Recruiter,46000,7,Barishal,4.4
+1021,Mehedi Hasan,30,Male,Finance,Financial Analyst,59000,6,Dhaka,4.3
+1022,Sadia Afrin,26,Female,IT,Web Developer,44000,3,Chattogram,4.2
+1023,Shakib Hossain,28,Male,Sales,Sales Executive,40000,4,Rangpur,3.9
+1024,Lamia Islam,34,Female,Operations,Operations Manager,72000,10,Dhaka,4.7
+1025,Arman Kabir,24,Male,Marketing,Graphic Designer,35000,2,Sylhet,4.0
+1026,Nabila Noor,29,Female,Finance,Payroll Officer,48000,6,Khulna,4.2
+1027,Hasibul Alam,31,Male,IT,System Administrator,62000,8,Dhaka,4.5
+1028,Priya Saha,23,Female,HR,HR Assistant,29000,1,Rajshahi,3.7
+1029,Adnan Chowdhury,37,Male,Sales,Regional Sales Manager,85000,13,Chattogram,4.8
+1030,Rumana Yasmin,27,Female,Marketing,Social Media Executive,37000,3,Dhaka,4.1
+1031,Jubayer Rahman,26,Male,Operations,Logistics Officer,34000,2,Barishal,3.8
+1032,Faria Ahmed,33,Female,IT,Project Coordinator,65000,9,Dhaka,4.6
+1033,Shuvo Das,29,Male,Finance,Audit Associate,43000,5,Rangpur,4.0
+1034,Maliha Karim,24,Female,Sales,Customer Relations Officer,33000,2,Khulna,4.2
+1035,Rashedul Islam,38,Male,HR,HR Business Partner,78000,14,Dhaka,4.7
+1036,Sohana Akter,25,Female,Operations,Office Executive,30000,1,Chattogram,3.9
+1037,Tariqul Hasan,32,Male,IT,Database Administrator,67000,9,Sylhet,4.4
+1038,Afia Tasnim,28,Female,Marketing,Brand Executive,45000,5,Dhaka,4.3
+1039,Ehsan Ahmed,27,Male,Finance,Accounts Officer,39000,3,Rajshahi,3.8
+1040,Nafisa Karim,30,Female,IT,Data Engineer,70000,7,Dhaka,4.7
